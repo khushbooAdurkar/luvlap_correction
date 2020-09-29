@@ -1,11 +1,14 @@
-@media only screen and (min-width:1020px)and (max-width:1850px){
+@media only screen and  (max-width:1800px){
     .main{padding: 0;margin: 0 auto}
     .top,.rectangle,.box3,.youtube,{width: 98%;}
-    .nav{padding:20px 0 20px 91px;}
-    .nav a{padding-left: 25px;} 
+    .logo img {padding-left: 60px;}
+    .nav{padding:20px 0 20px 0;margin: 0 30px}
+    .nav a{padding-left: 20px;} 
+    .shopping-cart{padding-right: 18px;}
     .search-box{ margin-left: 15px;}
     .search-txt{width: 15em;}
     .heart a,.avatar a,.shopping-cart a{padding: 0;}
+    .heart,.avatar,.shopping-cart{padding: 0 12px}
     .box2{width: 98%;}
     .Categories{width:94%;padding: 0 0 0 74px;margin: 0 auto;}
     .cat{width: 30.9%;padding-right: 20px;}
@@ -18,17 +21,17 @@
     
     .product{width:22%;margin-right: 25px;}
     .product .content ul li{padding-right: 4px;}
-    .red-cart img{ padding: 10px 0 10.3px 0; float: right;}
+   
     .youtube{width:96%;padding: 80px 20px 0 20px; }
     .Testimonials{padding-bottom: 35em;} 
     .customer{ padding-bottom: 2em;width: 30%;}
-    .cu{margin-right:50px; margin-left: 78px;}
+    .cu{margin-right:50px; margin-left: 50px;}
     .cust2{margin: 0 45px ;}
     .icon{  font-size:75px;}
     .footer a{padding:0 }
     .links{margin-left:5em}
-    .link_row1{width:95%;margin-left:2em}
-    .link_row2{width:93%;clear: both;margin-left:5em}
+    .link_row1{width:95%;margin-left:0}
+    .link_row2{width:93%;clear: both;margin-left:2em}
     .copy{padding-top: 10px}
     .fl:after{margin: 0 20px}
     .map h4{margin-bottom:0; }
@@ -38,7 +41,7 @@
     .m1>div{ padding-right: 7.5em;}
     }
 
-     @media only screen and (max-width:800px){
+     @media only screen and (max-width:1000px){
       .top,.box2,.box3,.youtube{width: 96%;}
     .logo{width: 12.66%;height: 70px}
     
@@ -87,7 +90,7 @@
       .dry{width:89%;padding:0 0 0 35px ;margin: 0 auto}
       .seller{margin: 0 0 0 8.5%;}
       .product{width: 45.5%; padding-bottom: 20px;margin-right:10px}
-      .youtube{width: 75%;}
+      .youtube{width: 93%;}
       .Testimonials{padding-bottom: 75em;} 
       .customer{ padding-bottom: 5em;width: 48%;}
       .cu{margin-right: 40px; margin-left: 40px;}
@@ -95,8 +98,8 @@
       .cust3{margin-top: 30px;}
 
       .links{margin-left:3em}
-      .link_row1{margin-left:1em}
-      .link_row2{margin-left:3em}
+      .link_row1{margin-left:0em}
+      .link_row2{margin-left:2em}
       .fl:after{margin: 0;}
       .footer li{padding: 10px 0}
       .footer a{padding: 8px;font-size: 12px}
@@ -112,7 +115,7 @@
       .map p{margin-top:0; }
     }
 
-     @media only screen and (max-width:500px){
+     @media only screen and (max-width:720px){
 
       .top,.box2,.box3,.youtube,{width: 94%;}
 
@@ -171,8 +174,8 @@
       .dry{margin: 0}
       .seller{margin: 0 0 0 7%; }
       .product{width: 98%; padding-bottom: 20px;margin-right:0}
-      .product .content ul{ width: 100%;}
-      .red-cart img{ padding: 10px 0px 10.3px 4px;}
+      .product .content ul{ width: 94%;}
+      /*.red-cart img{ padding: 10px 0px 10.3px 4px;}*/
       .product .content ul li{padding-right: 10px;}
       .pic{width: 97%;}
       .youtube{width: 90%;height:auto;padding: 10px;}
