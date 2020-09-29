@@ -192,10 +192,10 @@
       .footer a{padding:0;}
       .footer li{list-style: none;}
       .footer ul{padding-left: 0;}
-      .links{padding: 0;margin-left:0}
-      .link_row1{width:90%;padding-left:0; }
-      .link_row2{width:90%;padding-left: 0;margin-left:1em}  
-      .footer li{padding:0;float:none;list-style: none;}   
+     .links{padding-left:0;margin-left:0;width: 96%;}
+      .link_row1{width:100%;padding-left:0; }
+      .link_row2{width:100%;padding-left: 0;margin-left:0}  
+      .footer li{padding:0;float:none;list-style: none;width:100%;} 
       /*About*/
       .aboutus p{padding-left: 10px;padding-right: 10px;
       /*contact*/
